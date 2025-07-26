@@ -1,0 +1,24 @@
+#Credenciales de Google (No lo subira a GitHub)
+service_account.json
+
+#Variable de entorno
+.env
+
+#Ignora TODO EL ENTORNO DE PYTHON
+venv/
+
+#Ignora este TXT
+detalles.txt
+
+# Archivos de entorno y credenciales
+.env
+*.json # Si tus credenciales de GCP son un archivo .json y está en la raíz
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos de caché y compilación
+__pycache__/
+*.pyc
