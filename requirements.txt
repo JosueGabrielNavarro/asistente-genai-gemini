@@ -1,0 +1,4 @@
+python-dotenv
+google-cloud-aiplatform
+vertexai
+prompt_toolkit
